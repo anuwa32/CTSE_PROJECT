@@ -1,6 +1,8 @@
-# edu_share_app
+# CTSE_ASSIGNMENT_01
 
-Mobile application for eduShare
+This particular mobile application is specifically developed with the objective of providing support and aid to students who attend schools located in rural areas.
+
+Rural area schools often face unique challenges due to limited resources, lack of accessibility, and distance from urban centers. This mobile application aims to bridge those gaps and offer assistance to students who may encounter difficulties in their education.
 
 ## Getting Started
 
